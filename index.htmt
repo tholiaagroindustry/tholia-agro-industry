@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Tholia Agro Industry | Premium Cattle Feed Manufacturer</title>
+
+<meta name="description" content="Premium Cattle Feed Manufacturer in Haryana">
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+
+<img src="images/logo.png" alt="Tholia Agro Industry">
+
+</div>
+
+<nav>
+
+<ul>
+
+<li><a href="#">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#products">Products</a></li>
+<li><a href="#gallery">Gallery</a></li>
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<div class="buttons">
+
+<a href="tel:9813246435" class="call-btn">
+Call Now
+</a>
+
+<a href="https://wa.me/919813246435" class="whatsapp-btn">
+WhatsApp
+</a>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h1>
+
+Trusted Nutrition For Healthy Cattle
+
+</h1>
+
+<h2>
+
+स्वस्थ पशु • बेहतर पोषण • अधिक दूध उत्पादन
+
+</h2>
+
+<p>
+
+Premium Cattle Feed Manufacturer
+
+</p>
+
+<a href="#products" class="hero-btn">
+
+Explore Products
+
+</a>
+
+</div>
+
+</section><section id="about" class="about">
+
+<div class="container">
+
+<h2>About Tholia Agro Industry</h2>
+
+<p>
+
+<strong>Tholia Agro Industry</strong> is committed to manufacturing premium cattle feed with balanced nutrition.
+
+हमारा उद्देश्य किसानों को उच्च गुणवत्ता वाला पशु आहार उपलब्ध कराना है, जिससे पशुओं का स्वास्थ्य बेहतर रहे और दूध उत्पादन बढ़े।
+
+</p>
+
+<div class="features">
+
+<div class="feature">
+
+<h3>🌾 Premium Quality</h3>
+
+<p>High quality raw materials.</p>
+
+</div>
+
+<div class="feature">
+
+<h3>🥛 Better Milk Production</h3>
+
+<p>Balanced nutrition for dairy animals.</p>
+
+</div>
+
+<div class="feature">
+
+<h3>💙 Trusted By Farmers</h3>
+
+<p>Reliable products with consistent quality.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- PRODUCTS -->
+
+<section id="products" class="products">
+
+<div class="container">
+
+<h2>Our Products</h2>
+
+<div class="product-grid">
+
+<div class="card">
+
+<img src="images/super10000.jpg" alt="Super Premium">
+
+<h3>BOVISTAR SUPER PREMIUM 10000</h3>
+
+<p>Premium nutrition for high milk production.</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/premium8000.jpg" alt="Premium">
+
+<h3>BOVISTAR PREMIUM 8000</h3>
+
+<p>Balanced nutrition for healthy cattle.</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/heifergro.jpg" alt="Heifer Gro">
+
+<h3>HEIFER GRO</h3>
+
+<p>Healthy growth for young cattle.</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/drycare.jpg" alt="Dry Care">
+
+<h3>DRY CARE</h3>
+
+<p>Special feed for dry period cattle.</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/transitioncare.jpg" alt="Transition Care">
+
+<h3>TRANSITION CARE</h3>
+
+<p>Balanced transition nutrition.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- GALLERY -->
+
+<section id="gallery" class="gallery">
+
+<div class="container">
+
+<h2>Product Gallery</h2>
+
+<div class="gallery-grid">
+
+<img src="images/gallery1.jpg" alt="Gallery">
+
+<img src="images/gallery2.jpg" alt="Gallery">
+
+<img src="images/gallery3.jpg" alt="Gallery">
+
+<img src="images/gallery4.jpg" alt="Gallery">
+
+<img src="images/gallery5.jpg" alt="Gallery">
+
+<img src="images/gallery6.jpg" alt="Gallery">
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- CONTACT -->
+
+<section id="contact" class="contact">
+
+<div class="container">
+
+<h2>Contact Us</h2>
+
+<p><strong>Tholia Agro Industry</strong></p>
+
+<p>📍 Rupana Road, Rupawas, Sirsa, Haryana</p>
+
+<p>📞 +91 9813246435</p>
+
+<p>📞 +91 9813679800</p>
+
+<div class="contact-buttons">
+
+<a href="tel:9813246435" class="call-btn">
+📞 Call Now
+</a>
+
+<a href="https://wa.me/919813246435" class="whatsapp-btn">
+💬 WhatsApp
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- FOOTER -->
+
+<footer>
+
+<p>
+
+© 2026 Tholia Agro Industry | All Rights Reserved.
+
+</p>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
