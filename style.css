@@ -1,3 +1,4 @@
+
 *{
 margin:0;
 padding:0;
@@ -286,10 +287,12 @@ scroll-behavior:smooth;
 @media(max-width:768px){
 
 header{
-flex-direction:column;
-padding:15px;
+flex-direction:row;
+justify-content:space-between;
+align-items:center;
+padding:10px 15px;
 }
-
+  
 nav ul{
 flex-direction:column;
 gap:15px;
