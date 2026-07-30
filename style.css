@@ -89,8 +89,7 @@ transform:translateY(-3px);
 
 height:100vh;
 
-background:url(images/hero.jpg);
-
+background:url(hero.jpg);
 background-size:cover;
 
 background-position:center;
