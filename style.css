@@ -589,3 +589,54 @@ overflow:hidden;
 border-radius:18px;
 box-shadow:0 10px 25px rgba(0,0,0,.15);
 }
+.dealer-form{
+padding:80px 0;
+background:#f8fbff;
+}
+
+.dealer-form h2{
+text-align:center;
+color:#004aad;
+margin-bottom:10px;
+}
+
+.dealer-form p{
+text-align:center;
+margin-bottom:30px;
+}
+
+#dealerForm{
+max-width:650px;
+margin:auto;
+display:flex;
+flex-direction:column;
+gap:18px;
+}
+
+#dealerForm input,
+#dealerForm textarea{
+padding:15px;
+border:1px solid #ddd;
+border-radius:10px;
+font-size:16px;
+}
+
+#dealerForm textarea{
+height:120px;
+resize:none;
+}
+
+#dealerForm button{
+background:#25D366;
+color:#fff;
+border:none;
+padding:15px;
+border-radius:10px;
+font-size:18px;
+font-weight:600;
+cursor:pointer;
+}
+
+#dealerForm button:hover{
+opacity:.9;
+}
