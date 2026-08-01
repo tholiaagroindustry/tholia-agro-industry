@@ -28,3 +28,23 @@ ${message}`;
 window.open("https://wa.me/919813246435?text="+encodeURIComponent(text),"_blank");
 
 });
+window.onscroll=function(){
+
+let btn=document.getElementById("topBtn");
+
+if(document.documentElement.scrollTop>300){
+btn.style.display="block";
+}else{
+btn.style.display="none";
+}
+
+}
+
+function scrollToTop(){
+
+window.scrollTo({
+top:0,
+behavior:"smooth"
+});
+
+}
