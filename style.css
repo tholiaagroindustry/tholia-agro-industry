@@ -430,3 +430,56 @@ opacity:1;
 transform:translateY(0);
 }
 }
+.why-us{
+padding:90px 0;
+background:#f8fbff;
+}
+
+.why-us h2{
+text-align:center;
+font-size:40px;
+color:#004aad;
+margin-bottom:50px;
+}
+
+.why-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:30px;
+}
+
+.why-card{
+background:#fff;
+padding:30px;
+border-radius:18px;
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+text-align:center;
+transition:.3s;
+}
+
+.why-card:hover{
+transform:translateY(-8px);
+}
+
+.why-card h3{
+color:#004aad;
+margin-bottom:15px;
+font-size:22px;
+}
+
+.why-card p{
+color:#555;
+line-height:1.7;
+}
+
+@media(max-width:768px){
+
+.why-us h2{
+font-size:30px;
+}
+
+.why-card{
+padding:22px;
+}
+
+}
