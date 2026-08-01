@@ -640,14 +640,30 @@ cursor:pointer;
 #dealerForm button:hover{
 opacity:.9;
 }
-.hero-image{
+
+.slider{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+overflow:hidden;
+z-index:1;
+}
+
+.slide{
 position:absolute;
 top:0;
 left:0;
 width:100%;
 height:100%;
 object-fit:cover;
-z-index:1;
+opacity:0;
+transition:opacity 1s ease-in-out;
+}
+
+.slide.active{
+opacity:1;
 }
 
 .overlay{
